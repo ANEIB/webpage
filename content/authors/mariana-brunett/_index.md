@@ -5,7 +5,7 @@ avatar_filename: avatar
 social:
   - display:
       header: false
-    icon_pack: ai
+    icon_pack: fas
     icon: email
     link: "mailto:mariana.brunett@ug.uchile.cl\t"
 superuser: false
