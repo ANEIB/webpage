@@ -5,8 +5,8 @@ avatar_filename: avatar
 social:
   - display:
       header: false
-    icon_pack: fas
-    icon: email
+    icon_pack: far
+    icon: envelope
     link: "mailto:mariana.brunett@ug.uchile.cl\t"
 superuser: false
 user_groups:
