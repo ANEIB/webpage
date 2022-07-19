@@ -7,7 +7,7 @@ headless: true
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
   slide_height: ''
-  is_fullscreen: false
+  is_fullscreen: true
   # Automatically transition through slides?
   loop: false
   # Duration of transition between slides (in ms)
@@ -32,7 +32,7 @@ content:
         brightness: 0.0
         media: #coders.jpg
     - title: Actividades
-      content: "-Divulgación científica: Simposios, charlas de  docentes y/o empresas, creación de contenido.
+      content: "-Divulgación científica: Simposios, charlas de  docentes y/o empresas, creación de contenido. <br>
       -Charlas a colegios: Charlas vocacionales dirigidas a estudiantes de enseñanza media con el objetivo de dar a conocer la asociación, la carrera de biotecnología y sus afines, y las diferentes áreas de desarrollo.
       -Congresos: Evento que realiza de forma anual en el mes de octubre, donde participan estudiantes, docentes y expertos con el objetivo de difundir los avances y desarrollos referentes al campo de la biotecnología a nivel nacional e internacional.
       -Redes de contacto: Intercambio de intereses y formación de redes de contacto para futuras relaciones laborales con colegas."
@@ -50,11 +50,11 @@ content:
 #        color: '#555'
 #        brightness: 0.7
 #        media: contact.jpg
-    - title: 
-      content: 
-      align: center
-      background:
-        position: center
-        brightness: 1
-        media: welcome.jpg
+#    - title: 
+#      content: 
+#      align: center
+#      background:
+#        position: center
+#        brightness: 1
+#        media: welcome.jpg
 ---
