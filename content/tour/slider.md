@@ -31,17 +31,11 @@ content:
         color: '#555'
         brightness: 0.7
         media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
-      align: right
+    - title: 
+      content: 
+      align: center
       background:
         position: center
-        color: '#333'
-        brightness: 0.5
+        brightness: 1
         media: welcome.jpg
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: ../contact/
 ---
