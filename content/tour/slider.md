@@ -15,14 +15,14 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title: Misión
+      content: Promover el conocimiento científico y tecnológico  relacionado con el área de Ingeniería en Biotecnología entre los estudiantes y las universidades asociadas.
       align: center
       background:
         position: right
-        color: '#666'
-        brightness: 0.7
-        media: coders.jpg
+        color: '#469B80'
+        brightness: 0.0
+        media: #coders.jpg
     - title: Lunch & Learn ☕️
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
