@@ -31,10 +31,7 @@ content:
         color: '#446A5C'
         brightness: 0.0
       - title: Actividades
-      content: —Divulgación científica Simposios, charlas de  docentes y/o empresas, creación de contenido
-      —Charlas a colegios Charlas vocacionales dirigidas a estudiantes de enseñanza media con el objetivo de dar a conocer la asociación, la carrera de biotecnología y sus afines, y las diferentes áreas de desarrollo
-      —Congresos Evento que realiza de forma anual en el mes de octubre, donde participan estudiantes, docentes y expertos con el objetivo de difundir los avances y desarrollos referentes al campo de la biotecnología a nivel nacional e internacional
-      —Redes de contacto Intercambio de intereses y formación de redes de contacto para futuras relaciones laborales con colegas"
+      content: —Divulgación científica Simposios, charlas de  docentes y/o empresas, creación de contenido <br> —Charlas a colegios Charlas vocacionales dirigidas a estudiantes de enseñanza media con el objetivo de dar a conocer la asociación, la carrera de biotecnología y sus afines, y las diferentes áreas de desarrollo <br> —Congresos Evento que realiza de forma anual en el mes de octubre, donde participan estudiantes, docentes y expertos con el objetivo de difundir los avances y desarrollos referentes al campo de la biotecnología a nivel nacional e internacional <br> —Redes de contacto Intercambio de intereses y formación de redes de contacto para futuras relaciones laborales con colegas"
       align: left
       background:
         position: right
