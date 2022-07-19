@@ -7,7 +7,7 @@ social:
       header: false
     icon_pack: far
     icon: envelope
-    link: "mailto:mariana.brunett@ug.uchile.cl\t"
+    link: mailto:mariana.brunett@ug.uchile.cl
 superuser: false
 user_groups:
   - Delegados/as
