@@ -17,29 +17,41 @@ content:
   slides:
     - title: Misión
       content: Promover el conocimiento científico y tecnológico  relacionado con el área de Ingeniería en Biotecnología entre los estudiantes y las universidades asociadas.
-      align: center
+      align: left
       background:
-        position: right
+        position: center
         color: '#469B80'
         brightness: 0.0
         media: #coders.jpg
     - title: Visión
       content: Transformarnos en una vía de comunicación efectiva entre socios y organizaciones relacionadas con la biotecnología, apuntando fuertemente a las carencias académicas y laborales.
-      align: center
+      align: left
       background:
-        position: right
+        position: center
         color: '#446A5C'
         brightness: 0.0
         media: #coders.jpg
     - title: Actividades
-      content: '<b>Divulgación científica:</b> Simposios, charlas de  docentes y/o empresas, creación de contenido. <br>
-      -Charlas a colegios: Charlas vocacionales dirigidas a estudiantes de enseñanza media con el objetivo de dar a conocer la asociación, la carrera de biotecnología y sus afines, y las diferentes áreas de desarrollo. <br>
-      -Congresos: Evento que realiza de forma anual en el mes de octubre, donde participan estudiantes, docentes y expertos con el objetivo de difundir los avances y desarrollos referentes al campo de la biotecnología a nivel nacional e internacional. <br>
-      -Redes de contacto: Intercambio de intereses y formación de redes de contacto para futuras relaciones laborales con colegas.'
+      content: '<b>Divulgación científica:</b> Simposios, charlas de  docentes y/o empresas, creación de contenido.<br>
+      <b>Charlas a colegios:</b> Charlas vocacionales dirigidas a estudiantes de enseñanza media con el objetivo de dar a conocer la asociación, la carrera de biotecnología y sus afines, y las diferentes áreas de desarrollo.<br>
+      <b>Congresos:</b> Evento que realiza de forma anual en el mes de octubre, donde participan estudiantes, docentes y expertos con el objetivo de difundir los avances y desarrollos referentes al campo de la biotecnología a nivel nacional e internacional.<br>
+      <b>Redes de contacto:</b> Intercambio de intereses y formación de redes de contacto para futuras relaciones laborales con colegas.'
       align: left
       background:
-        position: right
-        color: '#FFFFFF'
+        position: center
+        color: '#469B80'
+        brightness: 0.0
+        media: #coders.jpg
+    - title: Beneficios de ser socio/a
+      content: '-Pertenecer a la red nacional más grande de estudiantes en biotecnología.<br>
+      -Participar de instancias de networking.<br>
+      -Asistir al Congreso Nacional de Estudiantes de Ingeniería en Biotecnología.<br>
+      -Participar de diversas actividades sociales y de divulgación en ANEIB.<br>
+      -Participar de un montón de actividades por parte de nuestras asociaciones amigas: AEBCH y ANEB.'
+      align: left
+      background:
+        position: center
+        color: '#446A5C'
         brightness: 0.0
         media: #coders.jpg
 #- title: Lunch & Learn ☕️
