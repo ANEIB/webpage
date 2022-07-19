@@ -5,7 +5,7 @@ abstract: Tenemos el agrado de invitarles a nuestro X Congreso Nacional de
   interesantes actividades para disfrutar. No te lo pierdas!
 slides: null
 url_pdf: ""
-summary: An example event.
+summary: Congreso Nacional de Estudiantes de Ingeniería en Biotecnología.
 title: X CONEIB 2022
 location: Universidad de Antofagasta
 date: 2022-10-17T11:00:00.000Z
