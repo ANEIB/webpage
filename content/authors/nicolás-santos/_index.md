@@ -1,5 +1,5 @@
 ---
-title: Nicolás Santos
+title: 2. Nicolás Santos
 role: Vicepresidente
 avatar_filename: avatar
 social: []
