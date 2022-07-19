@@ -30,6 +30,7 @@ content:
         position: right
         color: '#446A5C'
         brightness: 0.0
+        media: 
       - title: Actividades
       content: Divulgación científica,Charlas a colegios,Congresos y Redes de contacto
       align: left
@@ -37,6 +38,7 @@ content:
         position: right
         color: '#469B80'
         brightness: 0.0
+        media: 
 #    - title: Lunch & Learn ☕️
 #      content: 'Share your knowledge with the group and explore exciting new topics together!'
 #      align: left
