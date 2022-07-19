@@ -1,5 +1,5 @@
 ---
-title: Matías Ávalos
+title: "  Matías Ávalos"
 role: Secretario
 avatar_filename: avatar
 social:
