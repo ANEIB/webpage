@@ -7,7 +7,7 @@ slides: null
 url_pdf: ""
 summary: An example event.
 title: X CONEIB 2022
-location: La Perla del Norte, Antofagasta, Chile
+location: Universidad de Antofagasta
 date: 2022-10-17T11:00:00.000Z
 date_end: 2022-10-21T23:00:42.809Z
 all_day: false
@@ -18,11 +18,11 @@ authors: []
 url_video: ""
 url_slides: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
+  street: La Perla del Norte
+  city: 
+  region: Antofagasta
+  postcode: 
+  country: Chile
 links: []
 publishDate: 2022-07-19T01:06:57.746Z
 tags: []
