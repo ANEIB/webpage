@@ -9,6 +9,3 @@ design:
 ---
 
 {{% cta cta_link="./people/" cta_text="Conoce al equipo →" %}}
-
-Visita nuestras redes sociales!<br>
-[Instagram](https://www.instagram.com/aneib_chile/) — [Facebook](https://www.facebook.com/ANEIB) — [Twitter](https://twitter.com/aneib)
