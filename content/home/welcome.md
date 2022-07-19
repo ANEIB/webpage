@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+La **Asociación Nacional de Estudiantes de Ingeniería en Biotecnología** (ANEIB) es una asociación que junto con reunir a gran parte de las carreras de biotecnología del país, tiene como objetivo el promover el conocimiento científico y tecnológico en el área de biotecnología. Así como también crear instancias de participación e integración entre los estudiantes de Ingeniería en Biotecnología de las universidades asociadas, transformándose en la vía de comunicación del pensar de los estudiantes con todo tipo de instituciones u organizaciones, incluyendo asociaciones gremiales, sociedades científicas, nacionales e internacionales, organismos públicos y privados relacionados con el área del desarrollo de las ciencias.
