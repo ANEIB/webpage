@@ -1,5 +1,5 @@
 ---
-title: Alexandra  Salamanca
+title: " Alexandra  Salamanca"
 role: Tesorera
 avatar_filename: avatar
 social: []
