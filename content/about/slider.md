@@ -24,7 +24,7 @@ content:
         brightness: 0.0
         media: #coders.jpg
     - title: Visión
-      content: Promover el conocimiento científico y tecnológico  relacionado con el área de Ingeniería en Biotecnología entre los estudiantes y las universidades asociadas.
+      content: Transformarnos en una vía de comunicación efectiva entre socios y organizaciones relacionadas con la biotecnología, apuntando fuertemente a las carencias académicas y laborales.
       align: center
       background:
         position: right
