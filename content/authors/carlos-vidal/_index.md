@@ -1,5 +1,5 @@
 ---
-title: Carlos Vidal
+title: 1. Carlos Vidal
 role: Presidente
 social:
   - display:
