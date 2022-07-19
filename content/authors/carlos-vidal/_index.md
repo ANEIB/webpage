@@ -1,7 +1,6 @@
 ---
 title: Carlos Vidal
 role: Presidente
-avatar_filename: carlosvidal.jpg
 social:
   - display:
       header: false

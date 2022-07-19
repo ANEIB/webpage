@@ -16,21 +16,6 @@ content:
   # Contact (edit or remove options as required)
 
   email: aneibchile@gmail.com
-  social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:aneibchile@gmail.com
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/aneib_chile/
-  - display:
-      header: false
-    link: https://www.facebook.com/ANEIB
-    icon_pack: fab
-    icon: facebook
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/aneib
 #  phone: 888 888 88 88
 #  address:
 #    street: 450 Serra Mall
@@ -69,4 +54,4 @@ design:
   columns: '1'
 ---
 
-Si tienes alguna duda, contáctate con tu delegado/a, sin embargo, si no es posible no dudes en contactarnos.
+Si tienes alguna duda, contáctate con tu delegado/a, sin embargo, si no es posible no dudes en dejarnos un mensaje.

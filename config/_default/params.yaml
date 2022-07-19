@@ -15,11 +15,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: Organización
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Asociación Nacional de Estudiantes de Ingeniería en Biotecnología de Chile'
+    twitter: 'aneib'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} ANEIB. Esta página se encuentra bajo licencia {license}'
     license:
       enable: true
       allow_derivatives: false
