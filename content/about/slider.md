@@ -16,35 +16,26 @@ design:
 content:
   slides:
     - title: Misión
-      content: Promover el conocimiento científico y tecnológico  relacionado con el área de Ingeniería en Biotecnología entre los estudiantes y las universidades asociadas
+      content: Promover el conocimiento científico y tecnológico  relacionado con el área de Ingeniería en Biotecnología entre los estudiantes y las universidades asociadas.
       align: center
       background:
         position: right
         color: '#469B80'
         brightness: 0.0
         media: #coders.jpg
-    - title: Visión
-      content: Transformarnos en una vía de comunicación efectiva entre socios y organizaciones relacionadas con la biotecnología, apuntando fuertemente a las carencias académicas y laborales
-      align: center
-      background:
-        position: right
-        color: '#446A5C'
-        brightness: 0.0
-        media: 
-      - title: Actividades
-      content: Divulgación científica,Charlas a colegios,Congresos y Redes de contacto
+    - title: Lunch & Learn ☕️
+      content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
       background:
-        position: right
-        color: '#469B80'
-        brightness: 0.0
-        media: 
-#    - title: Lunch & Learn ☕️
-#      content: 'Share your knowledge with the group and explore exciting new topics together!'
-#      align: left
-#      background:
-#        position: center
-#        color: '#555'
-#        brightness: 0.7
-#        media: contact.jpg
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: contact.jpg
+    - title: 
+      content: 
+      align: center
+      background:
+        position: center
+        brightness: 1
+        media: welcome.jpg
 ---
