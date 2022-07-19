@@ -24,6 +24,6 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Researchers
+#  - Researchers
 highlight_name: false
 ---
