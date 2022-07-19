@@ -8,7 +8,7 @@
 appearance:
   theme_day: minimal
   theme_night:
-  font: 'ANEIB Sans' #native
+  font: aneib-sans #native
   font_size: M #L
 
 # SEO
