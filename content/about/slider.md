@@ -61,7 +61,7 @@ content:
 #        position: center
 #        color: '#555'
 #        brightness: 0.7
-#        media: contact.jpg
+#        media: contacto.jpg
 #    - title: 
 #      content: 
 #      align: center
