@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: aneibchile@gmail.com
+  email: comunicaciones@aneib.cl
 #  phone: 888 888 88 88
 #  address:
 #    street: 450 Serra Mall
