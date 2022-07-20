@@ -6,7 +6,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:aneibchile@gmail.com
+    link: mailto:comunicaciones@aneib.cl
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/aneib_chile/
@@ -23,7 +23,6 @@ education:
   courses: []
 email: ""
 superuser: true
-user_groups:
-#  - Researchers
+user_groups: null
 highlight_name: false
 ---
