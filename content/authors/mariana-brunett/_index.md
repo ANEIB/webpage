@@ -1,6 +1,6 @@
 ---
 title: Mariana Brunett
-role: Universidad de Chile JGM
+role: Universidad de Chile — Juan Gómez Millas
 avatar_filename: avatar
 social:
   - display:
