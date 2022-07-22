@@ -1,6 +1,6 @@
 ---
 title: Segunda Charla ANEIB Julio
-date: 2022-07-22T16:00:00.000Z
+date: 2022-07-22T04:00:36.269Z
 draft: false
 featured: false
 image:
@@ -19,5 +19,7 @@ Aylin Santelices
 <i>"Biotecnología: construyendo el futuro"</i>
 Estudiante tesista de Magíster
 Ingeniera en Biotecnología de la Universidad Arturo Prat
+
+Accede al [Formulario de Inscripción aquí.](https://forms.gle/3Wj45CQDXLm6UUmi7)
 
 No te lo pierdas!
