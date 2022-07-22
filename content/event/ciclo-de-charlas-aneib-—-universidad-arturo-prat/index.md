@@ -7,6 +7,19 @@ abstract: >-
   Expondrán, la estudiante tesista de magister <b>Aylin Santelices</b> con el tema <i>"Biotecnología: Construyendo el futuro"</i>; y el director del programa de magister de biotecnología de la Universidad Arturo Prat, el <b>Dr. Erico Carmona</b> con el tema: <i>"Síntesis verde de nanomateriales para aplicaciones ambientales y antimicrobianas"</i>.
 
 
+  Cronograma:
+
+  19:00: Presentación ANEIB
+
+  19.05: Dr. Erico Carmona:  "Síntesis verde de nanomateriales para aplicaciones ambientales y antimicrobianas"
+
+  19:50: Break
+
+  20:00:  Aylin Santelices "Biotecnología: construyendo el futuro"
+
+  20:45: Cierre
+
+
   La jornada se realizará online en la plataforma Zoom.
 location: Zoom Meeting
 date: 2022-07-26T23:00:33.545Z
