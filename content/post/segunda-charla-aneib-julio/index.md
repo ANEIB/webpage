@@ -1,6 +1,6 @@
 ---
 title: Segunda Charla ANEIB Julio
-date: 2022-07-22T20:00:19.468Z
+date: 2022-07-22T16:00:00.000Z
 draft: false
 featured: false
 image:
