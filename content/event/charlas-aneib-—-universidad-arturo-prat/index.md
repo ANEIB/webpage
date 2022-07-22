@@ -20,7 +20,7 @@ abstract: >-
   20:45: Cierre
 
 
-  La jornada se realizará online en la plataforma Zoom.
+  La jornada se realizará online en la plataforma Zoom. Accede al [Formulario de Inscripción aquí.](https://forms.gle/3Wj45CQDXLm6UUmi7)
 location: Zoom Meeting
 date: 2022-07-26T19:00:00.000Z
 date_end: 2022-07-26T20:00:00.000Z
