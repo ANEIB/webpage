@@ -1,6 +1,6 @@
 ---
 title: Paula Cabrera
-role: Universidad Andrés Bello — Santiago
+role: Universidad Andrés Bello<br>Santiago
 avatar_filename: avatar
 social:
   - display:

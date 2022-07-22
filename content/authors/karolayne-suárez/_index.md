@@ -1,6 +1,6 @@
 ---
 title: Karolayne Suárez
-role: Universidad de la Frontera — Biotecnología
+role: Universidad de la Frontera<br>Biotecnología
 avatar_filename: avatar
 social:
   - display:
