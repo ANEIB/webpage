@@ -1,5 +1,5 @@
 ---
-title: Ciclo de charlas ANEIB — Universidad Arturo Prat
+title: Charlas ANEIB — Universidad Arturo Prat
 abstract: >-
   Tenemos el agrado de invitarles este martes 26 de Julio, a las 19:00 hrs. a
   una nueva instancia de nuestro <i>Ciclo de charlas ANEIB</i>.
