@@ -25,7 +25,7 @@ location: Zoom Meeting
 date: 2022-07-26T19:00:00.000Z
 date_end: 2022-07-26T20:00:00.000Z
 all_day: false
-event: Ciclo de charlas ANEIB — Universidad Arturo Prat
+event: Charlas ANEIB — Universidad Arturo Prat
 event_url: .
 publishDate: 2022-07-22T01:45:33.574Z
 draft: false
