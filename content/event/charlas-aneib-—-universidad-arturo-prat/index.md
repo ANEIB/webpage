@@ -22,8 +22,8 @@ abstract: >-
 
   La jornada se realizará online en la plataforma Zoom.
 location: Zoom Meeting
-date: 2022-07-26T23:00:33.545Z
-date_end: 2022-07-27T00:00:00.000Z
+date: 2022-07-26T19:00:00.000Z
+date_end: 2022-07-26T20:00:00.000Z
 all_day: false
 event: Ciclo de charlas ANEIB — Universidad Arturo Prat
 event_url: .
