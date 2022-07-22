@@ -8,7 +8,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-La Asociación Nacional de Estudiantes de Ingeniería en Biotecnología (ANEIB) tiene el agrado de invitarles este Martes 26 de Julio a las 19.00 horas a la [segunda Charla del año](../event/charlas-aneib--universidad-arturo-prat/) a sus socios e interesados en la asociación. Este evento será virtual a través de la plataforma Zoom. Para esta ocasión se contará con dos charlistas:
+La Asociación Nacional de Estudiantes de Ingeniería en Biotecnología (ANEIB) tiene el agrado de invitarles este Martes 26 de Julio a las 19.00 horas a la [segunda Charla del año](../../event/charlas-aneib--universidad-arturo-prat/) a sus socios e interesados en la asociación. Este evento será virtual a través de la plataforma Zoom. Para esta ocasión se contará con dos charlistas:
 
 Dr. Erico Carmona
 <i>"Síntesis verde de nanomateriales para aplicaciones ambientales y antimicrobianas"</i>
