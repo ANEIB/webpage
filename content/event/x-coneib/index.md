@@ -8,8 +8,8 @@ url_pdf: ""
 summary: Congreso Nacional de Estudiantes de Ingeniería en Biotecnología.
 title: X CONEIB 2022
 location: Universidad de Antofagasta
-date: 2022-10-17T11:00:00.000Z
-date_end: 2022-10-21T23:00:42.809Z
+date: 2022-10-17T08:00:00.000Z
+date_end: 2022-10-21T20:00:00.000Z
 all_day: false
 event: X Congreso Nacional de Estudiantes de Ingeniería en Biotecnología Molecular
 event_url: https://linktr.ee/x.coneib
