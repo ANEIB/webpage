@@ -11,7 +11,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: reunion.png
+    image: #reunion.png
     image_darken: 0
     image_parallax: false
     image_position: center
@@ -19,8 +19,8 @@ design:
     text_color_light: true
   spacing:
     padding:
-      - 20px
-      - "0"
-      - 20px
-      - "0"
+      - #20px
+      - #"0"
+      - #20px
+      - #"0"
 ---

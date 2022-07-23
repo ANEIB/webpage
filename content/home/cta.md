@@ -8,4 +8,5 @@ design:
   columns: '1'
 ---
 {{< youtube id="NyXjPdfEnDY" title="¿Qué es ANEIB?" >}}
+<br><br>
 {{% cta cta_link="./people/" cta_text="Conoce al equipo →" %}}
