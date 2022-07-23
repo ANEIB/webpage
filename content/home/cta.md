@@ -7,5 +7,5 @@ weight: 40
 design:
   columns: '1'
 ---
-
+{{< youtube id="NyXjPdfEnDY" title="¿Qué es ANEIB?" >}}
 {{% cta cta_link="./people/" cta_text="Conoce al equipo →" %}}
