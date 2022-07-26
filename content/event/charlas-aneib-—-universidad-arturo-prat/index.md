@@ -9,19 +9,21 @@ abstract: >-
 
   Cronograma:
 
-  19:00: Presentación ANEIB
+  <b>19:00:</b> Presentación ANEIB<br>
 
-  19.05: Dr. Erico Carmona:  "Síntesis verde de nanomateriales para aplicaciones ambientales y antimicrobianas"
+  <b>19.05:</b> Dr. Erico Carmona:  "Síntesis verde de nanomateriales para aplicaciones ambientales y antimicrobianas"<br>
 
-  19:50: Break
+  <b>19:50:</b> Break<br>
 
-  20:00:  Aylin Santelices "Biotecnología: construyendo el futuro"
+  <b>20:00:</b>  Aylin Santelices "Biotecnología: construyendo el futuro"<br>
 
-  20:45: Cierre
+  <b>20:45:</b> Cierre
 
 
   La jornada se realizará online en la plataforma Zoom. Accede al [Formulario de Inscripción aquí.](https://forms.gle/3Wj45CQDXLm6UUmi7)
-location: Zoom Meeting
+location: "[Zoom
+  Meeting](https://uchile.zoom.us/j/91398891027?pwd=Q1R3aXAyTzdndmw3aXN3OEViUk0\
+  yUT09)"
 date: 2022-07-26T19:00:00.000Z
 date_end: 2022-07-26T20:00:00.000Z
 all_day: false
