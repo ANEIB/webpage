@@ -29,7 +29,7 @@ projects: null
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   focal_point: Right
-  filename: nutria-color-dna-final.png
+  filename: ""
 url_code: ""
 all_day: false
 ---
