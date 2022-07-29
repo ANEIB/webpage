@@ -1,5 +1,5 @@
 ---
-abstract: >
+abstract: >-
   Tenemos el agrado de invitarles a nuestro X Congreso Nacional de Estudiantes
   de Ingeniería en Biotecnología. Esta edición del congreso será realizada en la
   Universidad de Antofagasta y contará con grandes invitados e interesantes
@@ -7,6 +7,10 @@ abstract: >
 
 
   A continuación, pueden encontrar las bases para participar de ponencias y pósters:
+
+  [Bases Ponencias X CONEIB 2022](http://aneib.cl/files/bases_ponencias_X_CONEIB_2022.pdf)
+
+  [Bases Pósters X CONEIB 2022](http://aneib.cl/files/bases_posters_X_CONEIB_2022.pdf)
 slides: null
 url_pdf: ""
 summary: Congreso Nacional de Estudiantes de Ingeniería en Biotecnología.
@@ -32,6 +36,10 @@ links:
     name: Bases Ponencias X CONEIB 2022
     icon_pack: fas
     icon: file-pdf
+  - url: http://aneib.cl/files/bases_posters_X_CONEIB_2022.pdf
+    name: Bases Pósters X CONEIB 2022
+    icon: file-pdf
+    icon_pack: fas
 publishDate: 2022-07-19T01:06:57.746Z
 tags: []
 projects: null
