@@ -7,3 +7,4 @@ superuser: false
 user_groups:
   - Delegados/as
 ---
+Delegada de la Universidad Adolfo Ibáñez.

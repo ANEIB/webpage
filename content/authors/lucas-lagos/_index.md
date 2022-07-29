@@ -12,3 +12,4 @@ superuser: false
 user_groups:
   - Delegados/as
 ---
+Delegado de la Pontificia Universidad Católica de Chile.

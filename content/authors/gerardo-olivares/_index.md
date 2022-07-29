@@ -12,3 +12,4 @@ superuser: false
 user_groups:
   - Delegados/as
 ---
+Delegado de la Universidad Católica del Maule.

@@ -13,3 +13,4 @@ superuser: false
 user_groups:
   - Delegados/as
 ---
+Delegada de la carrera de Ingeniería de Ejecución en Bioprocesos de la Pontificia Universidad Católica de Valparaíso.

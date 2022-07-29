@@ -12,3 +12,4 @@ superuser: false
 user_groups:
   - Delegados/as
 ---
+Delegado de la carrera de Ingeniería Civil Bioquímica de la Pontificia Universidad Católica de Valparaíso (PUCV).

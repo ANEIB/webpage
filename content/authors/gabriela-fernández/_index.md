@@ -12,3 +12,4 @@ superuser: false
 user_groups:
   - Delegados/as
 ---
+Delegada de la carrera de Ingeniería en Biotecnología Vegetal (Los Ángeles) de la Universidad de Concepción.

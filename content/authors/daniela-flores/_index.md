@@ -12,3 +12,4 @@ superuser: false
 user_groups:
   - Delegados/as
 ---
+Delegada de la carrera de Biotecnología de la Universidad de la Frontera.
