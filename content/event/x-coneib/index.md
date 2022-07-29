@@ -6,7 +6,7 @@ abstract: >-
   actividades para disfrutar. No te lo pierdas!
 
 
-  A continuación, pueden encontrar las bases para participar de ponencias y pósters:
+  A continuación, pueden encontrar las bases para participar de ponencias y pósters:<br>
 
   [Bases Ponencias X CONEIB 2022](http://aneib.cl/files/bases_ponencias_X_CONEIB_2022.pdf)<br>
 
