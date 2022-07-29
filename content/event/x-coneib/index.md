@@ -8,7 +8,7 @@ abstract: >-
 
   A continuación, pueden encontrar las bases para participar de ponencias y pósters:
 
-  [Bases Ponencias X CONEIB 2022](http://aneib.cl/files/bases_ponencias_X_CONEIB_2022.pdf)
+  [Bases Ponencias X CONEIB 2022](http://aneib.cl/files/bases_ponencias_X_CONEIB_2022.pdf)<br>
 
   [Bases Pósters X CONEIB 2022](http://aneib.cl/files/bases_posters_X_CONEIB_2022.pdf)
 slides: null
