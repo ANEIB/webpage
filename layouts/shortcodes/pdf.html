@@ -1,4 +1,4 @@
-<!-- pdf "str_url" str_pdf_name IN_LINE/LIGHT_BOX-->
+<!-- pdf "str_url" str_pdf_name -->
 
 <div id="adobe-dc-view" style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
@@ -8,6 +8,6 @@
 		adobeDCView.previewFile({
 			content:{location: {url: "{{.Get 0}}"}},
 			metaData:{fileName: "{{.Get 1}}"}
-		}, {embedMode: "{{.Get 2}}"});
+		}, {embedMode: "IN_LINE"});
 	});
 </script>
