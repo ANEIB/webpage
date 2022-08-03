@@ -23,5 +23,3 @@ Ingeniera en Biotecnología de la Universidad Arturo Prat
 Accede al [Formulario de Inscripción aquí.](https://forms.gle/3Wj45CQDXLm6UUmi7)
 
 No te lo pierdas!
-
-{{< iframe "https://twitter.com/aneib" >}}
