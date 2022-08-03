@@ -23,5 +23,6 @@ Ingeniera en Biotecnología de la Universidad Arturo Prat
 Accede al [Formulario de Inscripción aquí.](https://forms.gle/3Wj45CQDXLm6UUmi7)
 
 No te lo pierdas!
-
-{{< embed-pdf url="http://aneib.cl/files/bases_ponencias_X_CONEIB_2022.pdf" >}}
+---
+#{{< embed-pdf url="http://aneib.cl/files/bases_ponencias_X_CONEIB_2022.pdf" >}}
+{{< iframe http://aneib.cl/files/bases_ponencias_X_CONEIB_2022.pdf >}}
