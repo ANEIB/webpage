@@ -23,3 +23,5 @@ Universidad Mayor 
 Mas información: <https://bit.ly/3BHaaiJ>
 
 Cómo llegar: <https://goo.gl/maps/8pD6eDs3wqokvhHE8>
+
+{{< iframe "https://goo.gl/maps/8pD6eDs3wqokvhHE8" >}}
