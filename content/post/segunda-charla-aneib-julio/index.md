@@ -24,5 +24,4 @@ Accede al [Formulario de Inscripción aquí.](https://forms.gle/3Wj45CQDXLm6UUmi
 
 No te lo pierdas!
 ---
-#{{< embed-pdf url="http://aneib.cl/files/bases_ponencias_X_CONEIB_2022.pdf" >}}
 {{< iframe http://aneib.cl/files/bases_ponencias_X_CONEIB_2022.pdf >}}
