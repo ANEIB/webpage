@@ -8,7 +8,7 @@ image:
   focal_point: Smart
   preview_only: false
 links:
-  - url: http://aneib.cl/files/bases_ponencias_X_CONEIB_2022.pdf
+  - url: https://aneib.cl/files/public/afiche_doctorados_genomica_2023.pdf
     name: Afiche Doctorados Genómica 2023
     icon_pack: fas
     icon: file-pdf
