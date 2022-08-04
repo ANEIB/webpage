@@ -8,9 +8,9 @@ abstract: >-
 
   A continuación, pueden encontrar las bases para participar de ponencias y pósters:<br>
 
-  [Bases Ponencias X CONEIB 2022](http://aneib.cl/files/bases_ponencias_X_CONEIB_2022.pdf)<br>
+  [Bases Ponencias X CONEIB 2022](https://aneib.cl/files/bases_ponencias_X_CONEIB_2022.pdf)<br>
 
-  [Bases Pósters X CONEIB 2022](http://aneib.cl/files/bases_posters_X_CONEIB_2022.pdf)
+  [Bases Pósters X CONEIB 2022](https://aneib.cl/files/bases_posters_X_CONEIB_2022.pdf)
 slides: null
 url_pdf: ""
 summary: Congreso Nacional de Estudiantes de Ingeniería en Biotecnología.
