@@ -41,4 +41,4 @@ Cómo llegar:
 <br>
 <br>
 
-{{< pdf "https://aneib.cl/files/public/afiche_doctorados_genomica_2023.pdf" "Afiche Doctorados Genómica 2023" 720px 360px>}} {{< pdf "https://aneib.cl/files/public/doctorado_genomica_integrativa.pdf" "Doctorado Genómica Integrativa" 720px 360px>}}
+{{< pdf "https://aneib.cl/files/public/doctorado_genomica_integrativa.pdf" "Doctorado Genómica Integrativa" >}}
