@@ -49,3 +49,4 @@ image:
   filename: ""
 url_code: ""
 ---
+Esta edición del congreso se realizará de manera presencial en las dependencias de la Universidad de Antofagasta
