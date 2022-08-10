@@ -1,8 +1,7 @@
 ---
 abstract: Tenemos el agrado de invitarles a nuestro X Congreso Nacional de
-  Estudiantes de Ingeniería en Biotecnología. Esta edición del congreso será
-  realizada en la Universidad de Antofagasta y contará con grandes invitados e
-  interesantes actividades para disfrutar. No te lo pierdas!
+  Estudiantes de Ingeniería en Biotecnología. Esta edición contará con grandes
+  invitados e interesantes actividades para disfrutar. No te lo pierdas!
 slides: null
 url_pdf: ""
 summary: Congreso Nacional de Estudiantes de Ingeniería en Biotecnología.
@@ -41,7 +40,7 @@ image:
   filename: ""
 url_code: ""
 ---
-Esta edición del congreso se realizará de manera **presencial** en las dependencias de la Universidad de Antofagasta.
+Nuestro congreso se realizará de manera **presencial** en las dependencias de la Universidad de Antofagasta.
 
 La invitación está extendida para todos/as nuestros/as socios/as, nuestras asociaciones amigas ANEB y AEBCH, y público general.
 
