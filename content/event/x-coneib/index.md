@@ -1,16 +1,8 @@
 ---
-abstract: >-
-  Tenemos el agrado de invitarles a nuestro X Congreso Nacional de Estudiantes
-  de Ingeniería en Biotecnología. Esta edición del congreso será realizada en la
-  Universidad de Antofagasta y contará con grandes invitados e interesantes
-  actividades para disfrutar. No te lo pierdas!
-
-
-  A continuación, pueden encontrar las bases para participar de ponencias y pósters:<br>
-
-  [Bases Ponencias X CONEIB 2022](https://aneib.cl/files/bases_ponencias_X_CONEIB_2022.pdf)<br>
-
-  [Bases Pósters X CONEIB 2022](https://aneib.cl/files/bases_posters_X_CONEIB_2022.pdf)
+abstract: Tenemos el agrado de invitarles a nuestro X Congreso Nacional de
+  Estudiantes de Ingeniería en Biotecnología. Esta edición del congreso será
+  realizada en la Universidad de Antofagasta y contará con grandes invitados e
+  interesantes actividades para disfrutar. No te lo pierdas!
 slides: null
 url_pdf: ""
 summary: Congreso Nacional de Estudiantes de Ingeniería en Biotecnología.
@@ -49,4 +41,14 @@ image:
   filename: ""
 url_code: ""
 ---
-Esta edición del congreso se realizará de manera presencial en las dependencias de la Universidad de Antofagasta
+Esta edición del congreso se realizará de manera **presencial** en las dependencias de la Universidad de Antofagasta.
+
+La invitación está extendida para todos/as nuestros/as socios/as, nuestras asociaciones amigas ANEB y AEBCH, y público general.
+
+Participa con tu ponencia o póster, las bases son las siguientes:<br>
+[Bases Ponencias X CONEIB 2022](https://aneib.cl/files/bases_ponencias_X_CONEIB_2022.pdf)<br>
+[Bases Pósters X CONEIB 2022](https://aneib.cl/files/bases_posters_X_CONEIB_2022.pdf)
+
+Contáctate con tu delegado/a para realizar tu inscripción. Si no sabes quién es tu delegado/a puede encontrarlo/a en la sección [Equipo](https://aneib.cl/people).
+
+Síguenos en nuestro Instagram [@coneib2022](https://www.instagram.com/coneib2022/) para estar al tanto de los detalles!
