@@ -1,7 +1,6 @@
 ---
 title: María Camila Gonzalez
-role: Pontificia Universidad Católica de Valparaíso<br>Ingeniería de Ejecución
-  en Bioprocesos
+role: Pontificia Universidad Católica de Valparaíso<br>Ingeniería en Bioprocesos
 avatar_filename: avatar
 social:
   - display:
