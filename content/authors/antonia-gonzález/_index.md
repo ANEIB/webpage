@@ -8,6 +8,11 @@ social:
     link: mailto:antonia.gonzalez.r@usach.cl
     icon_pack: fas
     icon: envelope
+  - display:
+      header: false
+    link: http://instagram.com/antoo_gr
+    icon_pack: fab
+    icon: instagram
 superuser: false
 user_groups:
   - Delegados/as
