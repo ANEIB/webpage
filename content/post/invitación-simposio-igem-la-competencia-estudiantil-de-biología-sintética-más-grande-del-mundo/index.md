@@ -7,7 +7,7 @@ draft: false
 featured: false
 image:
   filename: featured
-  focal_point: Smart
+  focal_point: Top
   preview_only: false
 ---
 Te invitamos a participar de la actividad **Simposio iGEM: La competencia estudiantil de biología sintética más grande del mundo**, organizada por estudiantes de la Facultad de Ciencias de la Universidad de Chile y miembros del Team Tan Tári Bricks, equipo participante en la competencia iGEM Design League 2022. 
