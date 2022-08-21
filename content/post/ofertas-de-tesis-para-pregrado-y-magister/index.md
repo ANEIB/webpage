@@ -9,6 +9,11 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+links:
+  - url: https://aneib.cl/files/public/Ofertas_Tesis_CBSECERM.pdf
+    name: Ofertas de Tesis Centro de Biología de Sistemas para el Estudio de Comunidades Extremófilas de Relaves Mineros
+    icon_pack: fas
+    icon: file-pdf
 ---
 Tenemos una excelente noticia, si te encuentras en búsqueda de tesis para pregrado o magister, el Centro de Biología de Sistemas para el Estudio de Comunidades Extremófilas de Relaves Mineros tiene ofertas para tí:
 
@@ -24,4 +29,4 @@ Más detalles e información en el PDF a continuación.
 
 <br>
 
-{{< pdf "https://aneib.cl/files/public/Ofertas_Tesis_CBSECERM.pdf" "Ofertas de Tesis para Pregrado y Magister Centro de Biología de Sistemas para el Estudio de Comunidades Extremófilas de Relaves Mineros" >}}
+{{< pdf "https://aneib.cl/files/public/Ofertas_Tesis_CBSECERM.pdf" "Ofertas de Tesis Centro de Biología de Sistemas para el Estudio de Comunidades Extremófilas de Relaves Mineros" >}}
