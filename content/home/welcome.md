@@ -18,4 +18,4 @@ Como asociación tenemos la misión de crear instancias de participación e inte
 
 <br>
 
-¿Quieres ser socio/a? Conoce a tu delegado en la sección [Equipo](https://aneib.cl/people/).
+¿Quieres ser socio/a? Conoce a tu delegado/a en la sección [Equipo](https://aneib.cl/people/).
