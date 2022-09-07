@@ -6,7 +6,7 @@ draft: false
 featured: false
 image:
   filename: featured
-  focal_point: Smart
+  focal_point: Top
   preview_only: false
 links:
   - url: https://forms.gle/VvrzuhxsehZwz7yi6
