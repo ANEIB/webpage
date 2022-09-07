@@ -33,6 +33,9 @@ abstract: >-
   Este evento será presencial, por lo que tu inscripción es clave para poder ingresar al lugar del evento o no podrás entrar.
 
 
+  Realiza tu inscripción en el siguiente link: [Formulario de Inscripción](https://forms.gle/VvrzuhxsehZwz7yi6)
+
+
   ¡No te lo pierdas!
 
 
