@@ -2,8 +2,9 @@
 title: Bienvenida ANEIB 2022
 abstract: >-
   La Asociación Nacional de Estudiantes de Ingeniería en Biotecnología (ANEIB)
-  tiene el agrado de invitarles este viernes 9 de septiembre a las 19:00 horas a
-  la gran Bienvenida de sus nuevos/as socios/as.
+  tiene el agrado de invitarles este <b>viernes 9 de septiembre a las 19:00
+  horas</b> a la gran Bienvenida de sus nuevos/as socios/as.
+
 
   La bienvenida se realizará en la sede de UNAB República, Edificio R5, sala 103. Al final de la página encontrarás un mapa con la dirección.
 
@@ -16,21 +17,21 @@ abstract: >-
   Los charlistas de este evento serán:
 
 
-  Eduardo Zavala
+  <b>Eduardo Zavala</b><br>
 
-  Ingeniero en Biotecnología – Universidad Andrés Bello
+  <i>Ingeniero en Biotecnología – Universidad Andrés Bello</i><br>
 
   CEO & Fundador de Done Properly
 
 
-  Sergio Loyola
+  <b>Sergio Loyola</b><br>
 
-  Ingeniero en Biotecnología – Universidad Tecnológica Metropolitana
+  <i>Ingeniero en Biotecnología – Universidad Tecnológica Metropolitana</i><br>
 
   Analista de Transferencia Tecnológica en KnowHub
 
 
-  Este evento será presencial, por lo que tu inscripción es clave para poder ingresar al lugar del evento o no podrás entrar.
+  Este evento será presencial, por lo que tu inscripción es clave para poder ingresar al lugar del evento o <b>no podrás entrar</b>.
 
 
   Realiza tu inscripción en el siguiente link: [Formulario de Inscripción](https://forms.gle/VvrzuhxsehZwz7yi6)
@@ -39,15 +40,15 @@ abstract: >-
   ¡No te lo pierdas!
 
 
-  Cronograma:
+  Cronograma:<br>
 
-  19:00: Presentación ANEIB
+  19:00: Presentación ANEIB<br>
 
-  19:10: Eduardo Zavala
+  19:10: Eduardo Zavala<br>
 
-  19:50: Break
+  19:50: Break<br>
 
-  20:00: Sergio Loyola
+  20:00: Sergio Loyola<br>
 
   20:40: Cierre
 location: |-
