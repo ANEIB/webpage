@@ -50,8 +50,8 @@ abstract: >-
 location: |-
   Universidad Andrés Bello, República 399, Santiago.
   Edificio R5 – Sala 103
-date: 2022-09-09T18:00:01.050Z
-date_end: 2022-09-09T20:00:00.000Z
+date: 2022-09-09T19:00:01.050Z
+date_end: 2022-09-09T21:00:00.000Z
 all_day: false
 links:
   - url: https://forms.gle/VvrzuhxsehZwz7yi6
