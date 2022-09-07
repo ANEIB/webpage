@@ -1,6 +1,6 @@
 ---
 title: Karla Villalobos
-role: Apoyo Creación de contenido
+role: Creación de contenido
 avatar_filename: avatar
 social:
   - display:
