@@ -14,7 +14,7 @@ El laboratorio LNM de la Facultad de Ciencias de la Universidad de Chile cuenta 
 **Perfil**<br>
 Personas del área de la Biologia, Biotecnología, Bioquímica o afín.
 
-¿Cuál es el tema? 
+¿Cuál es el tema?<br>
 Rol del tráfico intracelular en el déficit nutricional usando la planta modelo *Arabidopsis thaliana*.
 
 Si estás interesado/a o tienes más preguntas, por favor escribir a la Dra. Lorena Norambuena a: [laboratorio.lnorambuena@gmail.com](mailto:laboratorio.lnorambuena@gmail.com).
