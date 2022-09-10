@@ -24,7 +24,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 1
+  view: 5
   # Choose how many columns the section has. Valid values: '1' or '2'
   columns: '1'
 ---
