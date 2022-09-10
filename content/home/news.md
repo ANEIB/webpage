@@ -19,6 +19,12 @@ content:
   order: desc
   page_type: post
 design:
-  view: 3
+  # Toggle between the various page layout types
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   5 = Showcase
+  view: 1
+  # Choose how many columns the section has. Valid values: '1' or '2'
   columns: '1'
 ---
