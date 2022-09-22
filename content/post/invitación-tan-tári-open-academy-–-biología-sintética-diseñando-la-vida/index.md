@@ -19,7 +19,7 @@ Parte I: Miércoles 5 de octubre, 15:00 hrs\
 Parte II: Miércoles 12 de octubre, 15:00 hrs\
 *Se abordará la parte ingenieril, y cómo se han incorporado las abstracciones de Ingeniería Eléctrica para la creación de módulos lógicos.*
 
-Las clases se darán de manera presencial en la sala César Abuahuad de la Facultad de Ciencias de la Universidad de Chile, sin embargo, se hará retransmisión de estas mediante el canal de YouTube de Tan Tári Bricks.\
+Las clases serán de manera presencial en la **sala César Abuahuad de la Facultad de Ciencias de la Universidad de Chile**, sin embargo, se hará retransmisión de estas mediante el canal de YouTube de Tan Tári Bricks.\
 El link de inscripción se encuentra en el [Lnk.Bio de Tan Tári Bricks](https://lnk.bio/tantaribricks).
 
 Para más información no olviden visitar su Instagram [@tantaribricks](https://www.instagram.com/tantaribricks/)
