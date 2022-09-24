@@ -44,4 +44,4 @@ Cronograma:<br>
 20:00: Actividad de networking
 
 Cómo llegar:<br>
-{{< iframe "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1665.2263577285344!2d-70.56510938243935!3d-33.4114396967698!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662cee796fec1df%3A0x2f6ea9b0b04531f8!2sLos%20Almendros%20478%2C%20Las%20Condes%2C%207570138%2C%20Regi%C3%B3n%20Metropolitana!5e0!3m2!1sen!2scl!4v1664040044854!5m2!1sen!2scl" 720 480>}}
+{{< iframe "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1665.2263577285344!2d-70.56510938243935!3d-33.4114396967698!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662cee796fec1df%3A0x2f6ea9b0b04531f8!2sLos%20Almendros%20478%2C%20Las%20Condes%2C%207570138%2C%20Regi%C3%B3n%20Metropolitana!5e0!3m2!1sen!2scl!4v1664040044854!5m2!1sen!2scl" 576 360>}}
