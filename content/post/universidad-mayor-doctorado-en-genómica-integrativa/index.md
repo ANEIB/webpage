@@ -35,7 +35,7 @@ Mas información: <https://bit.ly/3BHaaiJ>
 
 Cómo llegar:
 
-{{< iframe "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3561.701959657921!2d-70.6137487!3d-33.3769451!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662c8a24dd6bd97%3A0x30fffbef42b23904!2sAparcamiento%2C%20Huechuraba%2C%20Regi%C3%B3n%20Metropolitana!5e1!3m2!1ses!2scl!4v1659504376423!5m2!1ses!2scl" 720 360>}}
+{{< iframe "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3561.701959657921!2d-70.6137487!3d-33.3769451!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662c8a24dd6bd97%3A0x30fffbef42b23904!2sAparcamiento%2C%20Huechuraba%2C%20Regi%C3%B3n%20Metropolitana!5e1!3m2!1ses!2scl!4v1659504376423!5m2!1ses!2scl" 576 360>}}
 
 <br>
 <br>

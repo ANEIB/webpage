@@ -31,4 +31,4 @@ Para más información no olviden visitar su Instagram [@tantaribricks](https://
 
 Cómo llegar:
 
-{{< iframe "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d433.7121706838177!2d-70.59641110082873!3d-33.46608170528316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662cfc242ecf9cb%3A0xb0f7168807f9cdb3!2sLas%20Palmeras%203406%2C%20%C3%91u%C3%B1oa%2C%20Regi%C3%B3n%20Metropolitana!5e0!3m2!1ses!2scl!4v1661113572849!5m2!1ses!2scl" 720 360>}}
+{{< iframe "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d433.7121706838177!2d-70.59641110082873!3d-33.46608170528316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662cfc242ecf9cb%3A0xb0f7168807f9cdb3!2sLas%20Palmeras%203406%2C%20%C3%91u%C3%B1oa%2C%20Regi%C3%B3n%20Metropolitana!5e0!3m2!1ses!2scl!4v1661113572849!5m2!1ses!2scl" 576 360>}}
