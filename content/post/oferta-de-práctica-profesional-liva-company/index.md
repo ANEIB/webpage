@@ -1,6 +1,6 @@
 ---
-title: Oferta de Práctica Profesional
-subtitle: Liva Company
+title: Oferta de Práctica Profesional Liva Company
+subtitle: Caupolicán 9450, bodega 42, Quilicura, RM
 date: 2022-11-11T22:28:01.595Z
 draft: false
 featured: false
