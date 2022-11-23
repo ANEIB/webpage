@@ -9,10 +9,10 @@ image:
   focal_point: Smart
   preview_only: false
 links:
-  - url: https://www.admisionunap.cl/assets/mallas/113007.pdf
+  - url: https://aneib.cl/files/public/Ficha_UNAP_Biotecnología.docx
     name: Programa UNAP Magister en Biotecnología 2023
     icon_pack: fas
-    icon: file-pdf
+    icon: file-word
 ---
 L﻿a Universidad Arturo Prat les invita a postular al programa de Magister en Biotecnología.
 
