@@ -11,8 +11,6 @@ image:
 ---
 L﻿a Universidad Arturo Prat les invita a postular al programa de Magister en Biotecnología.
 
-
-
 El **Magíster en Biotecnología** está dirigido a profesionales y/o investigadores de las áreas de ciencias biológicas, agropecuarias y biotecnología que quieran profundizar sus conocimientos teóricos y prácticos en la disciplina de biotecnología con énfasis en los recursos naturales renovables.
 
 Las líneas de investigación que sustentan el Programa corresponden a:
@@ -28,5 +26,6 @@ Los estudiantes podrán adquirir las siguientes competencias:
 * Diseñar, implementar, ejecutar herramientas y/o procesos para la gestión de los recursos naturales renovables.
 * Formular y ejecutar proyectos biotecnológicos que contribuyan al desarrollo científico-tecnológico del sector público y/o privado nacional y de la Macrozona norte.
 
+Duración: 3 Semestres
 
-**Duración: 3 Semestres**
+**P﻿ostula aquí: [Formulario de Postulación 2023](http://portal.unap.cl/kb/pre-matricula/app/presentacion/formulario_post.php?p=2722)**
