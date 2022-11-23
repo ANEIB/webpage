@@ -1,5 +1,6 @@
 ---
-title: "Oferta Programa: Universidad Mayor – Doctorado en Genómica Integrativa"
+title: "Oferta Programa: Doctorado en Genómica Integrativa"
+subtitle: Universidad Mayor
 date: 2022-08-03T01:31:35.911Z
 draft: false
 featured: false
