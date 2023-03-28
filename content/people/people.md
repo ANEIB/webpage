@@ -18,10 +18,7 @@ content:
   user_groups:
     - Directiva
     - Delegados/as
-#    - Grad Students
-#    - Administration
-#    - Visitors
-#    - Alumni
+#    - Directivas Anteriores
 design:
   show_interests: false
   show_role: true
