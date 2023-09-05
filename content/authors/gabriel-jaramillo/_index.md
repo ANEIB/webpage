@@ -1,6 +1,6 @@
 ---
 title: Gabriel Jaramillo
-role: Universidad de Chile<br>Beauchef
+role: Tesorero
 avatar_filename: avatar
 social:
   - display:
@@ -12,4 +12,4 @@ superuser: false
 user_groups:
   - Directiva
 ---
-Delegado de la Universidad de Chile (Beauchef).
+Universidad de Chile<br>Beauchef
