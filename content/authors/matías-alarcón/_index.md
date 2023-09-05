@@ -10,6 +10,6 @@ social:
     icon: envelope
 superuser: false
 user_groups:
-  - Delegados/as
+  - Directiva
 ---
-Delegado de la Universidad Tecnológica Metropolitana.
+V﻿icepresidente de ANEIB
