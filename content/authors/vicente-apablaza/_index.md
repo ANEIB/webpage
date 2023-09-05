@@ -1,6 +1,6 @@
 ---
 title: Vicente Apablaza
-role: Universidad de Antofagasta
+role: P﻿residente de ANEIB
 avatar_filename: avatar
 social:
   - display:
@@ -12,4 +12,4 @@ superuser: false
 user_groups:
   - Directiva
 ---
-P﻿residente de ANEIB
+Universidad de Antofagasta
