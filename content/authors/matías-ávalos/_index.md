@@ -15,5 +15,5 @@ social:
     icon: instagram
 superuser: false
 user_groups:
-  - Directiva
+  - Directivas Anteriores
 ---
