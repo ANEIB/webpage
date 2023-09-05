@@ -10,6 +10,6 @@ social:
     icon: envelope
 superuser: false
 user_groups:
-  - DIRECTIVA
+  - Directiva
 ---
 Delegado de la Pontificia Universidad Católica de Chile.
