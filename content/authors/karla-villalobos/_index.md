@@ -15,5 +15,6 @@ social:
     icon: orcid
 superuser: false
 user_groups:
-  - Directiva
+  - Directivas Anteriores
 ---
+U﻿niversidad de Chile<br>Juan Gómez Milla
