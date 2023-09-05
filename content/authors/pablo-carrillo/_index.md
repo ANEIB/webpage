@@ -10,5 +10,6 @@ social:
     icon: envelope
 superuser: false
 user_groups:
-  - Directiva
+  - Directivas Anteriores
 ---
+U﻿niversidad de la Frontera
