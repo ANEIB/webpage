@@ -1,6 +1,6 @@
 ---
 title: Matías Alarcón
-role: Universidad Tecnológica Metropolitana
+role: V﻿icepresidente de ANEIB
 avatar_filename: avatar
 social:
   - display:
@@ -12,4 +12,4 @@ superuser: false
 user_groups:
   - Directiva
 ---
-V﻿icepresidente de ANEIB
+Universidad Tecnológica Metropolitana
