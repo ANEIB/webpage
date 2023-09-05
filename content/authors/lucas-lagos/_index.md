@@ -1,6 +1,6 @@
 ---
 title: Lucas Lagos
-role: Pontificia Universidad Católica de Chile
+role: Relaciones Publicas
 avatar_filename: avatar
 social:
   - display:
@@ -12,4 +12,4 @@ superuser: false
 user_groups:
   - Directiva
 ---
-Delegado de la Pontificia Universidad Católica de Chile.
+Pontificia Universidad Católica de Chile
