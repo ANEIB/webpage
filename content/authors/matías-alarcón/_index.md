@@ -1,6 +1,6 @@
 ---
 title: Matías Alarcón
-role: V﻿icepresidente de ANEIB
+role: V﻿icepresidente
 avatar_filename: avatar
 social:
   - display:
