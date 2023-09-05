@@ -1,6 +1,6 @@
 ---
 title: Vicente Apablaza
-role: P﻿residente de ANEIB
+role: P﻿residente
 avatar_filename: avatar
 social:
   - display:
