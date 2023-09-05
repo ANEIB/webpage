@@ -19,5 +19,5 @@ social:
     link: https://scholar.google.com/citations?user=TkgNYnIAAAAJ&hl=en
 superuser: false
 user_groups:
-  - Dire
+  - Directivas Anteriores
 ---
