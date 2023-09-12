@@ -27,19 +27,19 @@ publishDate: 2022-07-19T01:06:57.746Z
 tags: []
 projects: null
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  caption: ""
   focal_point: Right
-  filename: ""
+  filename: null
 url_code: ""
 ---
 Nuestro congreso se realizará de manera **presencial** en las dependencias de la Universidad .
 
 La invitación está extendida para todos/as nuestros/as socios/as, nuestras asociaciones amigas ANEB y AEBCH, y público general.
 
-Participa con tu ponencia o póster, las bases son las siguientes<br>
+Participa con tu ponencia o póster, las bases <br>se encuentran en el siguiente link:
 
-<link> https://linktr.ee/coneib2023
+https://linktr.ee/coneib2023
 
 Contáctate con tu delegado/a para realizar tu inscripción. Si no sabes quién es tu delegado/a puede encontrarlo/a en la sección [Equipo](https://aneib.cl/people).
 
-Síguenos en nuestro Instagram\[@coneib2023](https://www.instagram.com/coneib_2023/)
+Síguenos en nuestro Instagram <br>https://www.instagram.com/coneib_2023/
