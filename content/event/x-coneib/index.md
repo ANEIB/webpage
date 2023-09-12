@@ -6,7 +6,7 @@ slides: null
 url_pdf: ""
 summary: Congreso Nacional de Estudiantes de Ingeniería en Biotecnología.
 title: XI CONEIB 2023
-location: Universidad de Chile Universidad & Universidad Tecnológica Metropolitana
+location: Universidad de Chile Universidad <br> Universidad Tecnológica Metropolitana
 date: 2023-11-06T08:00:00.000Z
 date_end: 2023-11-10T20:00:00.000Z
 all_day: false
