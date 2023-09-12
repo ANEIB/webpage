@@ -1,17 +1,17 @@
 ---
-abstract: Tenemos el agrado de invitarles a nuestro X Congreso Nacional de
+abstract: Tenemos el agrado de invitarles a nuestro XI Congreso Nacional de
   Estudiantes de Ingeniería en Biotecnología. Esta edición contará con grandes
   invitados e interesantes actividades para disfrutar. No te lo pierdas!
 slides: null
 url_pdf: ""
 summary: Congreso Nacional de Estudiantes de Ingeniería en Biotecnología.
-title: X CONEIB 2022
-location: Universidad de Antofagasta
-date: 2022-10-17T08:00:00.000Z
-date_end: 2022-10-21T20:00:00.000Z
+title: XI CONEIB 2023
+location: Universidad de Chile Universidad & Universidad Tecnológica Metropolitana
+date: 2023-11-06T08:00:00.000Z
+date_end: 2023-11-10T20:00:00.000Z
 all_day: false
-event: X Congreso Nacional de Estudiantes de Ingeniería en Biotecnología Molecular
-event_url: https://linktr.ee/x.coneib
+event: XI Congreso Nacional de Estudiantes de Ingeniería en Biotecnología Molecular
+event_url: https://linktr.ee/coneib2023
 featured: false
 authors: []
 url_video: ""
@@ -22,15 +22,7 @@ address:
   region: Antofagasta
   postcode: null
   country: Chile
-links:
-  - url: http://aneib.cl/files/bases_ponencias_X_CONEIB_2022.pdf
-    name: Bases Ponencias X CONEIB 2022
-    icon_pack: fas
-    icon: file-pdf
-  - url: http://aneib.cl/files/bases_posters_X_CONEIB_2022.pdf
-    name: Bases Pósters X CONEIB 2022
-    icon: file-pdf
-    icon_pack: fas
+links: []
 publishDate: 2022-07-19T01:06:57.746Z
 tags: []
 projects: null
@@ -40,14 +32,14 @@ image:
   filename: ""
 url_code: ""
 ---
-Nuestro congreso se realizará de manera **presencial** en las dependencias de la Universidad de Antofagasta.
+Nuestro congreso se realizará de manera **presencial** en las dependencias de la Universidad .
 
 La invitación está extendida para todos/as nuestros/as socios/as, nuestras asociaciones amigas ANEB y AEBCH, y público general.
 
-Participa con tu ponencia o póster, las bases son las siguientes:<br>
-[Bases Ponencias X CONEIB 2022](https://aneib.cl/files/bases_ponencias_X_CONEIB_2022.pdf)<br>
-[Bases Pósters X CONEIB 2022](https://aneib.cl/files/bases_posters_X_CONEIB_2022.pdf)
+Participa con tu ponencia o póster, las bases son las siguientes<br>
+
+<link> https://linktr.ee/coneib2023
 
 Contáctate con tu delegado/a para realizar tu inscripción. Si no sabes quién es tu delegado/a puede encontrarlo/a en la sección [Equipo](https://aneib.cl/people).
 
-Síguenos en nuestro Instagram [@coneib2022](https://www.instagram.com/coneib2022/) para estar al tanto de los detalles!
+Síguenos en nuestro Instagram\[@coneib2023](https://www.instagram.com/coneib_2023/)
