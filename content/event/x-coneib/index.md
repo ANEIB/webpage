@@ -36,10 +36,8 @@ Nuestro congreso se realizará de manera **presencial** en las dependencias de l
 
 La invitación está extendida para todos/as nuestros/as socios/as, nuestras asociaciones amigas ANEB y AEBCH, y público general.
 
-Participa con tu ponencia o póster, las bases <br>se encuentran en el siguiente link:
-
-https://linktr.ee/coneib2023
+Participa con tu ponencia o póster, las bases <br>se encuentran en el siguiente [link](https://linktr.ee/coneib2023)
 
 Contáctate con tu delegado/a para realizar tu inscripción. Si no sabes quién es tu delegado/a puede encontrarlo/a en la sección [Equipo](https://aneib.cl/people).
 
-Síguenos en nuestro Instagram [instagram](https://www.instagram.com/coneib_2023/)
+Síguenos en nuestro [instagram](https://www.instagram.com/coneib_2023/)
