@@ -27,7 +27,7 @@ publishDate: 2022-07-19T01:06:57.746Z
 tags: []
 projects: null
 image:
-  caption: ""
+  caption: "captura-desde-2023-09-12-17-20-18.png"
   focal_point: Right
   filename: null
 url_code: ""
