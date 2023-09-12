@@ -17,9 +17,9 @@ authors: []
 url_video: ""
 url_slides: ""
 address:
-  street: La Perla del Norte
+  street: Santiago de Chile
   city: null
-  region: Antofagasta
+  region: Metropolitana
   postcode: null
   country: Chile
 links: []
@@ -42,4 +42,4 @@ https://linktr.ee/coneib2023
 
 Contáctate con tu delegado/a para realizar tu inscripción. Si no sabes quién es tu delegado/a puede encontrarlo/a en la sección [Equipo](https://aneib.cl/people).
 
-Síguenos en nuestro Instagram <br>https://www.instagram.com/coneib_2023/
+Síguenos en nuestro Instagram [instagram](https://www.instagram.com/coneib_2023/)
