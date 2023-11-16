@@ -3,15 +3,13 @@ title: Patrocinadores
 
 # Files in this folder represent a Widget Page
 type: widget_page
-
+-
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
-
-title: Nuestros Patrocinadores
+weight: 60
 
 content:
   # Add your custom section about sponsors here
