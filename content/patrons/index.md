@@ -1,16 +1,16 @@
 ---
-title: Patrocinadores
+title: Nuestros Patrocinadores
+subtitle: "Agradecemos a nuestros generosos patrocinadores por su apoyo."
 
-# Files in this folder represent a Widget Page
-type: widget_page
+content:
+  # Agrega tu sección personalizada sobre patrocinadores aquí
+  patrocinadores:
+    - nombre: "BIOSAMER"
+      enlace: "https://biosamer.com"
+      contacto: "contacto@biosamer.com"
 
+      # Agrega más patrocinadores según sea necesario
 
-## Nuestros Patrocinadores
-
-Agradecemos a nuestros generosos patrocinadores por su apoyo.
-
-- subtitle: BIOSAMER
-links:
-  -url: https://biosamer.com
-    : contacto@biosamer.com
+design:
+  columns: '1'
 ---
