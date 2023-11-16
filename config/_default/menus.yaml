@@ -20,7 +20,7 @@ main:
     url: contact
     weight: 50
   - name: Patrocinadores
-    url: patrocinadores
+    url: patrons
     weight: 60
 #  - name: Publications
 #    url: publication
