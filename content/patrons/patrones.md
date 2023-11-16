@@ -6,10 +6,10 @@ content:
   custom_section:
     title: "Agradecemos a nuestros generosos patrocinadores por su apoyo."
 
-    patrocinadores:
-      - nombre: "BIOSAMER"
-        sitio_web: "https://biosamer.com"
-        contacto: "contacto@biosamer.com"
+    content:
+      - name: "BIOSAMER"
+        url: "https://biosamer.com"
+        url: "contacto@biosamer.com"
 
       # Agrega más patrocinadores según sea necesario
 
