@@ -9,7 +9,7 @@ content:
     content:
       - name: "BIOSAMER"
         url: "https://biosamer.com"
-        url: "contacto@biosamer.com"
+        link: "contacto@biosamer.com"
 
       # Agrega más patrocinadores según sea necesario
 
