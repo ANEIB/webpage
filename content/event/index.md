@@ -1,0 +1,59 @@
+---
+abstract: Tenemos el agrado de invitarles a nuestro XI Congreso Nacional de
+  Estudiantes de Ingeniería en Biotecnología. Esta edición contará con grandes
+  invitados e interesantes actividades para disfrutar. No te lo pierdas!
+slides: null
+url_pdf: ""
+summary: Congreso Nacional de Estudiantes de Ingeniería en Biotecnología y carreras afines.
+title: XII CONEIB 2024
+location: Universidad Andrés Bello
+date: 2024-10-28T08:00:00.000Z
+date_end: 2023-10-30T20:00:00.000Z
+all_day: false
+event: XII Congreso Nacional de Estudiantes de Ingeniería en Biotecnología
+event_url: 
+featured: false
+authors: []
+url_video: ""
+url_slides: ""
+address:
+  street: Viña del Mar
+  city: null
+  region: de Valparaíso
+  postcode: null
+  country: Chile
+links: []
+publishDate: 2022-07-19T01:06:57.746Z
+tags: []
+projects: null
+image:
+  caption: "logo.jpeg"
+  focal_point: Right
+  filename: null
+url_code: ""
+---
+Nuestro congreso se realizará de manera **presencial** en las dependencias de la **Universidad Andrés Bello, sede Viña del Mar**.
+
+**Fechas importantes:**
+* **Preventa 1:** 13 al 31 de agosto
+* **Congreso:** 28 al 30 de octubre
+
+**Temáticas a abordar:**
+* Biotecnología roja
+* Biotecnología verde
+* Biotecnología dorada
+* Biotecnología azul
+
+**Actividades:**
+* Talleres prácticos
+* Feria de emprendimiento
+* Exposición de pósteres
+* Presentaciones orales
+
+**Envio de Presentaciones y poster's** coneib.aneib@gmail.com
+
+**¡No te lo pierdas!** Inscríbete ahora y aprovecha la preventa 1. 
+
+**Más información:** manda un correo a coneib.aneib@gmail.com
+
+**Síguenos en Instagram:** [instagram](https://www.instagram.com/coneib_2024/)
