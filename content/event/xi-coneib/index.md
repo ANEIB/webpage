@@ -1,7 +1,5 @@
 ---
-abstract: Tenemos el agrado de invitarles a nuestro XI Congreso Nacional de
-  Estudiantes de Ingeniería en Biotecnología. Esta edición contará con grandes
-  invitados e interesantes actividades para disfrutar. No te lo pierdas!
+abstract: ¡Atención, futuros biotecnólogos! El XI Congreso Nacional los está esperando. Un evento imperdible con charlas top, talleres súper cool y mucho networking.
 slides: null
 url_pdf: ""
 summary: Congreso Nacional de Estudiantes de Ingeniería en Biotecnología y carreras afines.
@@ -13,29 +11,30 @@ all_day: false
 event: XII Congreso Nacional de Estudiantes de Ingeniería en Biotecnología
 event_url: 
 featured: false
-authors: []
+authors: ["Maximiliano Andres Farias Miño"]
 url_video: ""
 url_slides: ""
 address:
-  street: Viña del Mar
-  city: null
+  street: Quillota 980
+  city: Viña del Mar
   region: de Valparaíso
   postcode: null
   country: Chile
 links: []
-publishDate: 2022-07-19T01:06:57.746Z
+publishDate: 2024-08-28T01:06:57.746Z
 tags: []
 projects: null
 image:
-  caption: "logo.jpeg"
-  focal_point: Right
-  filename: null
+  filename: featured
+  focal_point: Top
+  preview_only: false
 url_code: ""
 ---
 Nuestro congreso se realizará de manera **presencial** en las dependencias de la **Universidad Andrés Bello, sede Viña del Mar**.
 
 **Fechas importantes:**
 * **Preventa 1:** 13 al 31 de agosto
+* **Envio de resumenes:** 12 al 31 de agosto
 * **Congreso:** 28 al 30 de octubre
 
 **Temáticas a abordar:**
@@ -49,11 +48,12 @@ Nuestro congreso se realizará de manera **presencial** en las dependencias de l
 * Feria de emprendimiento
 * Exposición de pósteres
 * Presentaciones orales
+* y mas sorpresas!!!
 
-**Envio de Presentaciones y poster's** coneib.aneib@gmail.com
+**Envio de Presentaciones y poster's** al [correo](coneib.aneib@gmail.com)
 
 **¡No te lo pierdas!** Inscríbete ahora y aprovecha la preventa 1. 
 
-**Más información:** manda un correo a coneib.aneib@gmail.com
+**Más información:** manda un mensaje a nuestro [correo](coneib.aneib@gmail.com) y te responderemos
 
-**Síguenos en Instagram:** [instagram](https://www.instagram.com/coneib_2024/)
+**Síguenos en [instagram](https://www.instagram.com/coneib_2024/):** 
