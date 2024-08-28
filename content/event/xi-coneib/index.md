@@ -25,7 +25,7 @@ publishDate: 2024-08-28T01:06:57.746Z
 tags: []
 projects: null
 image:
-  filename: logo.jpeg
+  filename: "logo.jpeg"
   focal_point: Top
   preview_only: false
 url_code: ""
