@@ -9,7 +9,7 @@ date: 2024-10-28T08:00:00.000Z
 date_end: 2023-10-30T20:00:00.000Z
 all_day: false
 event: XII Congreso Nacional de Estudiantes de Ingeniería en Biotecnología
-event_url: 
+event_url: false
 featured: false
 authors: []
 url_video: ""
@@ -26,7 +26,7 @@ tags: []
 projects: null
 image:
   filename: "logo.jpeg"
-  focal_point: Top
+  focal_point: Right
   preview_only: false
 url_code: ""
 ---
