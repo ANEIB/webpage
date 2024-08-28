@@ -17,7 +17,7 @@ url_slides: ""
 address:
   street: Quillota 980
   city: Viña del Mar
-  region: de Valparaíso
+  region: Valparaíso
   postcode: null
   country: Chile
 links: []
