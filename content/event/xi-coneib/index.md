@@ -6,10 +6,10 @@ summary: Congreso Nacional de Estudiantes de Ingeniería en Biotecnología y car
 title: XII CONEIB 2024
 location: Universidad Andrés Bello
 date: 2024-10-28T08:00:00.000Z
-date_end: 2023-10-30T20:00:00.000Z
+date_end: 2024-10-30T20:00:00.000Z
 all_day: false
 event: XII Congreso Nacional de Estudiantes de Ingeniería en Biotecnología
-event_url: false
+event_url: 
 featured: false
 authors: []
 url_video: ""
@@ -21,7 +21,7 @@ address:
   postcode: null
   country: Chile
 links: []
-publishDate: 2024-08-28T01:06:57.746Z
+publishDate: 2022-07-19T01:06:57.746Z
 tags: []
 projects: null
 image:
@@ -56,4 +56,4 @@ Nuestro congreso se realizará de manera **presencial** en las dependencias de l
 
 **Más información:** manda un mensaje a nuestro [correo](coneib.aneib@gmail.com) y te responderemos
 
-**Síguenos en [instagram](https://www.instagram.com/coneib_2024/):** 
+Síguenos en [instagram](https://www.instagram.com/coneib_2024/) 
