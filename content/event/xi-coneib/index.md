@@ -50,10 +50,10 @@ Nuestro congreso se realizará de manera **presencial** en las dependencias de l
 * Presentaciones orales
 * y mas sorpresas!!!
 
-**Envio de Presentaciones y poster's** al [correo](coneib.aneib@gmail.com)
+**Envio de Presentaciones y poster's** al correo ([coneib.aneib@gmail.com](mailto:coneib.aneib@gmail.com))
 
 **¡No te lo pierdas!** Inscríbete ahora y aprovecha la preventa 1. 
 
-**Más información:** manda un mensaje a nuestro [correo](coneib.aneib@gmail.com) y te responderemos
+**Más información:** manda un mensaje a nuestro correo ([coneib.aneib@gmail.com](mailto:coneib.aneib@gmail.com)) y te responderemos
 
 Síguenos en [instagram](https://www.instagram.com/coneib_2024/) 
