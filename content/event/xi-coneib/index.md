@@ -11,7 +11,7 @@ all_day: false
 event: XII Congreso Nacional de Estudiantes de Ingeniería en Biotecnología
 event_url: 
 featured: false
-authors: ["Maximiliano Andres Farias Miño"]
+authors: []
 url_video: ""
 url_slides: ""
 address:
